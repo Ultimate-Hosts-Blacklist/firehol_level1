@@ -1,9 +1,10 @@
-# About [firehol_level1]
+# About firehol_level1
 
 [![Build Status](https://travis-ci.org/Ultimate-Hosts-Blacklist/firehol_level1.svg?branch=master)](https://travis-ci.org/Ultimate-Hosts-Blacklist/firehol_level1)
 
-[Description]
-
+```
+A firewall blacklist composed from IP lists, providing maximum protection with minimum false positives. Suitable for basic protection on all internet facing servers, routers and firewalls. (includes: bambenek_c2 dshield feodo fullbogons spamhaus_drop spamhaus_edrop sslbl zeus_badips ransomware_rw)
+```
 --------------------------------------------------------------------------------
 
 # About Ultimate-Hosts-Blacklist

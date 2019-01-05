@@ -1,8 +1,8 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/firehol_level1/domains.list": {
-        "down": 314,
+        "down": 330,
         "invalid": 0,
-        "tested": 2355,
-        "up": 2041
+        "tested": 2591,
+        "up": 2261
     }
 }

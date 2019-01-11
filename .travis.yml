@@ -1,15 +1,6 @@
 env:
   global:
-    - secure: usr/lib/ruby/2.6.0/rubygems/dependency.rb:311:in `to_specs': Could not find 'faraday' (~> 0.9) among 134 total gem(s) (Gem::MissingSpecError)
-Checked in 'GEM_PATH=/home/funilrys/.gem/ruby/2.5.0:/usr/lib/ruby/gems/2.5.0:/home/funilrys/.gem', execute `gem env` for more information
-	from /usr/lib/ruby/2.6.0/rubygems/specification.rb:1449:in `block in activate_dependencies'
-	from /usr/lib/ruby/2.6.0/rubygems/specification.rb:1438:in `each'
-	from /usr/lib/ruby/2.6.0/rubygems/specification.rb:1438:in `activate_dependencies'
-	from /usr/lib/ruby/2.6.0/rubygems/specification.rb:1420:in `activate'
-	from /usr/lib/ruby/2.6.0/rubygems.rb:304:in `block in activate_bin_path'
-	from /usr/lib/ruby/2.6.0/rubygems.rb:303:in `synchronize'
-	from /usr/lib/ruby/2.6.0/rubygems.rb:303:in `activate_bin_path'
-	from /home/funilrys/.gem/ruby/2.5.0/bin/travis:23:in `<main>
+    - secure: aMvjsIVxr4jSlwmIsAhcAPjntt2KwxEvrZzH5Q8UUkIf1ekTE5W5ZJcoZtFKMSotZmcYMNklasXeXQvDmAGkyeQS3wJLwONALI+nAg7+YS/DaZ44fNtx+8AlHhPwLRw/alRs8H3aYSyHEdWb8RsVXps6S8etWWb9qz4PjC6QDWZvYO3JCk9mBpLLoqu9R4gg03G5IVYqNg/RYNMbd4VPcielbxZlQUukkeKfbPf3CTTt/DipSRqd56/c2MC4AN1qaM39qijUtuxQw3d0Y9jH6ys17VCYGlKV1Mfj5Dg7ZkjqwsA3Fe6L3nG48fU6hN2hkzDmdmMZ0pc02Hn9phEPbFBJeDRcgzDpTD5Qyar2qAIGxjwLqiu8cO4Fk6WBZRsZyaMrQwXfGPufF+Ud8A/9rv53/OMCjreFy7FvuXccWoFCKpUG6safIgSDqyghIYCJSR8I+b5CgWbDTZ1YALwm7n4Y7zI2cvbK9cyxVKXM5daY3cqXla1z6jE2n+usZWZ6g4Nkbpzvhx2cJDTHX8dyxSYT/s5rnjpnmT87X0IUuRRaaa63qfSSpVon+pcbGdxuVAoRucBNDY7SrQCsCxgb/KO6G+DOPXdhjW5L3Ebr7h1hxgp1CfIvpLZu8UsYMoibi2K2kK3ub5cIK2i9wxg+9Xnj4WHdrgUVGPVJd3ICqm4=
     - GIT_NAME: Travis CI
     - GIT_EMAIL: dead-hosts@funilrys.com
     - TRAVIS_REPO_SLUG: Ultimate-Hosts-Blacklist/firehol_level1

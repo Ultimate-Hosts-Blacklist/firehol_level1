@@ -3,7 +3,7 @@
     "clean_original": "1",
     "currently_under_test": "1",
     "days_until_next_test": "2",
-    "last_test": "1549212243",
+    "last_test": "1549213623",
     "name": "firehol_level1",
     "raw_link": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level1.netset",
     "stable": "1"

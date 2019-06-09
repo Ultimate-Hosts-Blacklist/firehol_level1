@@ -1,8 +1,8 @@
 {
     "currently_under_test": "1",
     "days_until_next_test": 2,
-    "last_autosave_datetime": "Sun Jun  9 16:46:00 2019",
-    "last_autosave_epoch": 1560098760.810684,
+    "last_autosave_datetime": "Sun Jun  9 17:05:29 2019",
+    "last_autosave_epoch": 1560099929.052122,
     "name": "firehol_level1",
     "raw_link": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level1.netset",
     "start_datetime": "Sun Jun  9 16:35:53 2019",

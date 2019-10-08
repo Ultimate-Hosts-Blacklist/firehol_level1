@@ -1,19 +1,19 @@
 {
     "current_stats": {
-        "builds": 35,
+        "builds": 36,
         "counter": {
-            "down": 99,
+            "down": 106,
             "invalid": 0,
-            "tested": 4476,
-            "up": 4377
+            "tested": 4527,
+            "up": 4421
         }
     },
     "currently_under_test": "1",
     "days_until_next_test": 2,
     "end_datetime": "Wed Oct  2 17:58:20 2019",
     "end_epoch": 1570039100.759278,
-    "last_autosave_datetime": "Tue Oct  8 09:45:05 2019",
-    "last_autosave_epoch": 1570527905.493771,
+    "last_autosave_datetime": "Tue Oct  8 16:00:57 2019",
+    "last_autosave_epoch": 1570550457.914468,
     "name": "firehol_level1",
     "previous_stats": {
         "builds": 2,

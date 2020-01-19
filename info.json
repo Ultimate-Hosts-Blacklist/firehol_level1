@@ -1,32 +1,23 @@
 {
-    "current_stats": {
-        "builds": 1,
-        "counter": {
-            "down": 67,
-            "invalid": 0,
-            "tested": 1292,
-            "up": 1225
-        }
-    },
-    "currently_under_test": "1",
+    "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Thu Jan 16 18:56:28 2020",
-    "end_epoch": 1579200988.376096,
+    "end_datetime": "Sun Jan 19 18:55:29 2020",
+    "end_epoch": 1579460129.59142,
     "last_autosave_datetime": "Sun Jan 19 18:37:40 2020",
     "last_autosave_epoch": 1579459060.51055,
     "name": "firehol_level1",
     "previous_stats": {
         "builds": 2,
-        "clean.list": 1201,
+        "clean.list": 1227,
         "counter": {
-            "down": 367,
+            "down": 393,
             "invalid": 0,
-            "tested": 1568,
-            "up": 1201
+            "tested": 1620,
+            "up": 1227
         },
-        "domains.list": 1568,
-        "volatile.list": 1188,
-        "whitelisted.list": 1188
+        "domains.list": 1620,
+        "volatile.list": 1214,
+        "whitelisted.list": 1214
     },
     "raw_link": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level1.netset",
     "start_datetime": "Sun Jan 19 18:27:38 2020",

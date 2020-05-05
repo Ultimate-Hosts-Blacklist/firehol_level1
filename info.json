@@ -1,5 +1,19 @@
 {
-    "currently_under_test": false,
+    "current_stats": {
+        "builds": 1,
+        "counter": {
+            "down": 0,
+            "invalid": 0,
+            "malicious": 0,
+            "sane": 0,
+            "tested": 0,
+            "up": 0,
+            "valid": 0
+        },
+        "volatile.list": 2317,
+        "whitelisted.list": 0
+    },
+    "currently_under_test": true,
     "days_until_next_test": 2,
     "end_datetime": "2020-03-04T11:01:34.039934",
     "end_epoch": 1583233899.333386,
@@ -25,6 +39,6 @@
         "whitelisted.list": 2329
     },
     "raw_link": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level1.netset",
-    "start_datetime": "2020-05-04T00:38:20.561197",
-    "start_epoch": 1588552700.561197
+    "start_datetime": "2020-05-05T20:22:32.627222",
+    "start_epoch": 1588710152.627222
 }

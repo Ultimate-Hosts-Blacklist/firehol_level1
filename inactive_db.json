@@ -150,8 +150,8 @@
         "104.18.57.37": {
             "included_at_epoch": 1588460472.0,
             "included_at_iso": "2020-05-02T23:01:12",
-            "last_retested_at_epoch": 1590012567.168067,
-            "last_retested_at_iso": "2020-05-20T22:09:27.168067",
+            "last_retested_at_epoch": 1590156748.817284,
+            "last_retested_at_iso": "2020-05-22T14:12:28.817284",
             "status": "INACTIVE"
         },
         "104.18.58.253": {
@@ -241,8 +241,8 @@
         "104.24.119.68": {
             "included_at_epoch": 1588460425.0,
             "included_at_iso": "2020-05-02T23:00:25",
-            "last_retested_at_epoch": 1590012654.932549,
-            "last_retested_at_iso": "2020-05-20T22:10:54.932549",
+            "last_retested_at_epoch": 1590156749.979314,
+            "last_retested_at_iso": "2020-05-22T14:12:29.979314",
             "status": "INACTIVE"
         },
         "104.253.147.195": {

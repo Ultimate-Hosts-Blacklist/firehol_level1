@@ -9,7 +9,7 @@
     "previous_stats": {
         "builds": 1,
         "clean.list": 0,
-        "clean_list": 2412,
+        "clean_list": 2405,
         "counter": {
             "down": 0,
             "invalid": 0,
@@ -19,12 +19,12 @@
             "up": 0,
             "valid": 0
         },
-        "domains.list": 2572,
-        "ip.list": 2421,
-        "volatile.list": 2399,
-        "whitelisted.list": 2399
+        "domains.list": 2565,
+        "ip.list": 2413,
+        "volatile.list": 2392,
+        "whitelisted.list": 2392
     },
     "raw_link": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level1.netset",
-    "start_datetime": "2020-06-13T11:46:28.001116",
-    "start_epoch": 1592048788.001116
+    "start_datetime": "2020-06-14T20:50:44.353817",
+    "start_epoch": 1592167844.353817
 }

@@ -2516,8 +2516,8 @@
         "23.82.12.29": {
             "included_at_epoch": 1588460308.0,
             "included_at_iso": "2020-05-02T22:58:28",
-            "last_retested_at_epoch": 1592600722.885193,
-            "last_retested_at_iso": "2020-06-19T21:05:22.885193",
+            "last_retested_at_epoch": 1592745637.796256,
+            "last_retested_at_iso": "2020-06-21T13:20:37.796256",
             "status": "INACTIVE"
         },
         "23.82.12.30": {

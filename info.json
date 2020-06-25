@@ -7,9 +7,9 @@
     "last_autosave_epoch": 1582311390.807393,
     "name": "firehol_level1",
     "previous_stats": {
-        "builds": 2,
+        "builds": 1,
         "clean.list": 0,
-        "clean_list": 2401,
+        "clean_list": 2398,
         "counter": {
             "down": 0,
             "invalid": 0,
@@ -19,12 +19,12 @@
             "up": 0,
             "valid": 0
         },
-        "domains.list": 2557,
-        "ip.list": 4808,
-        "volatile.list": 2388,
-        "whitelisted.list": 2388
+        "domains.list": 2554,
+        "ip.list": 2408,
+        "volatile.list": 2385,
+        "whitelisted.list": 2385
     },
     "raw_link": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level1.netset",
-    "start_datetime": "2020-06-24T23:43:42.410164",
-    "start_epoch": 1593042222.410164
+    "start_datetime": "2020-06-25T23:41:36.427816",
+    "start_epoch": 1593128496.427816
 }

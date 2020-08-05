@@ -1900,8 +1900,8 @@
         "185.181.104.74": {
             "included_at_epoch": 1588450745.0,
             "included_at_iso": "2020-05-02T20:19:05",
-            "last_retested_at_epoch": 1596403320.188764,
-            "last_retested_at_iso": "2020-08-02T21:22:00.188764",
+            "last_retested_at_epoch": 1596626320.160867,
+            "last_retested_at_iso": "2020-08-05T11:18:40.160867",
             "status": "INACTIVE"
         },
         "185.229.113.252": {

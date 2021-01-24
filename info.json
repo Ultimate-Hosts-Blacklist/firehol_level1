@@ -1,9 +1,9 @@
 {
-    "currently_under_test": true,
+    "currently_under_test": false,
     "custom_pyfunceble_config": {},
     "days_until_next_test": 2,
-    "end_datetime": "2020-03-04T11:01:34.039934",
-    "end_epoch": 1583233899.333386,
+    "end_datetime": "2021-01-24T13:57:09.522065",
+    "end_epoch": 1611496629.522065,
     "name": "firehol_level1",
     "previous_end_datetime": "2020-03-04T11:01:34.039934",
     "previous_end_epoch": 1583319694.039934,

@@ -1,0 +1,15 @@
+{
+    "abs_source": "/home/runner/work/firehol_level1/firehol_level1/domains.list",
+    "checker_type": "AVAILABILITY",
+    "destination": "domains.list",
+    "hash": "1c6aa606a1969f3b587273be9f4806736aedd001b16d9af4e9222780",
+    "line_number": 2786,
+    "output_dir": "/home/runner/work/firehol_level1/firehol_level1/output/domains.list",
+    "previous_hash": "1c6aa606a1969f3b587273be9f4806736aedd001b16d9af4e9222780",
+    "rel_source": "domains.list",
+    "session_id": "2d5c7adb355f21199c33a40b",
+    "source": "/home/runner/work/firehol_level1/firehol_level1/domains.list",
+    "subject": "/home/runner/work/firehol_level1/firehol_level1/domains.list",
+    "subject_type": "domain",
+    "type": "file"
+}

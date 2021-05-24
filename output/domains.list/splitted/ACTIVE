@@ -2695,3 +2695,9 @@ Subject                                                                         
 223.173.0.0/16                                                                                       ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 
 223.254.0.0/16                                                                                       ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 
 224.0.0.0/3                                                                                          ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 
+5.8.248.0/22                                                                                         ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 
+185.179.88.0/22                                                                                      ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 
+185.184.216.0/22                                                                                     ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 
+185.188.40.0/22                                                                                      ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 
+185.222.40.0/22                                                                                      ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 
+193.242.145.0/24                                                                                     ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 

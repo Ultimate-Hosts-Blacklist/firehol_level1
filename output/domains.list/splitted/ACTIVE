@@ -2715,3 +2715,4 @@ Subject                                                                         
 223.173.0.0/16                                                                                       ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 
 223.254.0.0/16                                                                                       ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 
 224.0.0.0/3                                                                                          ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 
+111.223.192.0                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 

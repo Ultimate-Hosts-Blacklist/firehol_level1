@@ -2770,3 +2770,5 @@ Subject                                                                         
 96.126.123.244                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 96.30.52.60                                                                                          ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 96.45.144.0/20                                                                                       ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 
+193.104.96.0/24                                                                                      ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 
+193.27.228.0/23                                                                                      ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 

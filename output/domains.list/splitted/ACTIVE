@@ -2740,3 +2740,6 @@ Subject                                                                         
 78.128.113.0/24                                                                                      ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 
 83.138.53.0/24                                                                                       ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 
 83.138.54.0/23                                                                                       ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 
+154.95.135.196                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
+173.239.5.6                                                                                          ACTIVE      HTTP CODE  Unknown           302        AVAILABILITY 
+133.130.35.90                                                                                        ACTIVE      HTTP CODE  Unknown           302        AVAILABILITY 

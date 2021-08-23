@@ -1,0 +1,15 @@
+[
+    {
+        "checker_type": "AVAILABILITY",
+        "destination": "domains.list",
+        "hash": "8047b433607d25f88a96ac95ef2ed2ce332f23ef4118dd6f3fbf8de1",
+        "line_number": 2867,
+        "output_dir": "/home/runner/work/firehol_level1/firehol_level1/output/domains.list",
+        "previous_hash": "8047b433607d25f88a96ac95ef2ed2ce332f23ef4118dd6f3fbf8de1",
+        "session_id": "44905d578af83f0017135f7a",
+        "source": "domains.list",
+        "subject": "domains.list",
+        "subject_type": "domain",
+        "type": "file"
+    }
+]

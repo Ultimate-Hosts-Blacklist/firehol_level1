@@ -2761,3 +2761,14 @@ Subject                                                                         
 96.30.52.60                                                                                          ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 96.45.144.0/20                                                                                       ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 
 103.4.217.55                                                                                         ACTIVE      HTTP CODE  Unknown           301        AVAILABILITY 
+103.172.51.0/24                                                                                      ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 
+103.172.76.0/22                                                                                      ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 
+103.172.80.0/20                                                                                      ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 
+103.172.96.0/19                                                                                      ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 
+205.185.116.0/24                                                                                     ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 
+209.141.41.0/24                                                                                      ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 
+209.141.56.0/24                                                                                      ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 
+80.82.77.0/24                                                                                        ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 
+91.132.58.0/24                                                                                       ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 
+93.190.125.0/24                                                                                      ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 
+93.190.126.0/23                                                                                      ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 

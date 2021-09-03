@@ -2801,3 +2801,5 @@ Subject                                                                         
 45.71.217.0/24                                                                                       ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 
 45.95.147.0/24                                                                                       ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 
 71.6.233.0/24                                                                                        ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 
+185.143.220.0                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+185.143.222.0                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 

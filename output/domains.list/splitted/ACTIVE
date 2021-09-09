@@ -2795,3 +2795,4 @@ Subject                                                                         
 185.232.44.0/22                                                                                      ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 
 195.54.160.0/24                                                                                      ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 
 79.124.62.0/24                                                                                       ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 
+193.36.88.0                                                                                          ACTIVE      HTTP CODE  Unknown           302        AVAILABILITY 

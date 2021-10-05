@@ -1586,6 +1586,7 @@
         "githubpreview.dev",
         "iserv.dev",
         "lcl.dev",
+        "lclstage.dev",
         "loginline.dev",
         "mediatech.dev",
         "pages.dev",
@@ -5813,7 +5814,6 @@
         "gen.ng",
         "gov.ng",
         "i.ng",
-        "lclstage.dev",
         "ltd.ng",
         "mil.ng",
         "mobi.ng",
@@ -6832,6 +6832,7 @@
         "pro.om"
     ],
     "one": [
+        "ex.ortsinfo.at",
         "for.one",
         "homelink.one",
         "onred.one",

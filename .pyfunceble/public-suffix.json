@@ -284,7 +284,6 @@
         "cat.ax",
         "es.ax",
         "eu.ax",
-        "gg.ax",
         "mc.ax",
         "us.ax",
         "xy.ax"
@@ -6807,6 +6806,7 @@
     ],
     "nu": [
         "enterprisecloud.nu",
+        "gg.ax",
         "merseine.nu",
         "mine.nu",
         "shacknet.nu"

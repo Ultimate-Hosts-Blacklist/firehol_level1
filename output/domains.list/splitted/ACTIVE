@@ -2748,3 +2748,8 @@ Subject                                                                         
 96.45.144.0/20                                                                                       ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 
 172.120.167.67                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 5.79.79.211                                                                                          ACTIVE      HTTP CODE  Unknown           302        AVAILABILITY 
+103.145.13.0/24                                                                                      ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 
+103.175.122.0/23                                                                                     ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 
+103.175.124.0/22                                                                                     ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 
+192.241.206.0/24                                                                                     ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 
+80.82.65.0/24                                                                                        ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 

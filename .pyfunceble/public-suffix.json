@@ -732,6 +732,7 @@
         "mb.ca",
         "myspreadshop.ca",
         "nb.ca",
+        "nf.ca",
         "nl.ca",
         "no-ip.ca",
         "ns.ca",
@@ -887,7 +888,6 @@
         "mil.cn",
         "mo.cn",
         "net.cn",
-        "nf.ca",
         "nm.cn",
         "nx.cn",
         "org.cn",
@@ -5607,7 +5607,8 @@
     ],
     "name": [
         "forgot.her.name",
-        "forgot.his.name"
+        "forgot.his.name",
+        "freemyip.com"
     ],
     "nc": [
         "asso.nc",

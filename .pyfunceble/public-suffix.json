@@ -1732,7 +1732,6 @@
         "wellbeingzone.eu"
     ],
     "eus": [
-        "ravendb.run",
         "user.party.eus"
     ],
     "events": [
@@ -4182,7 +4181,6 @@
         "tamatsukuri.ibaraki.jp",
         "tamayu.shimane.jp",
         "tamba.hyogo.jp",
-        "tanabe.kyoto.jp",
         "tanabe.wakayama.jp",
         "tanagura.fukushima.jp",
         "tanohata.iwate.jp",
@@ -5457,6 +5455,7 @@
         "svizzera.museum",
         "sweden.museum",
         "sydney.museum",
+        "tanabe.kyoto.jp",
         "tank.museum",
         "tcm.museum",
         "technology.museum",

@@ -2783,3 +2783,8 @@ Subject                                                                         
 96.30.52.60                                                                                          ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 96.45.144.0/20                                                                                       ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 
 104.28.26.243                                                                                        ACTIVE      HTTP CODE  Unknown           403        AVAILABILITY 
+193.27.229.0/24                                                                                      ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 
+195.80.238.0/24                                                                                      ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 
+198.144.159.0/24                                                                                     ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 
+2.57.121.0/24                                                                                        ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 
+45.137.23.0/24                                                                                       ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 

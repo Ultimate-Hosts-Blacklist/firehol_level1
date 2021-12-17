@@ -458,6 +458,7 @@
         "int.bo",
         "medicina.bo",
         "mil.bo",
+        "movimiento.bo",
         "musica.bo",
         "natural.bo",
         "net.bo",
@@ -588,7 +589,6 @@
         "mg.leg.br",
         "mil.br",
         "morena.br",
-        "movimiento.bo",
         "mp.br",
         "ms.gov.br",
         "ms.leg.br",
@@ -755,7 +755,6 @@
         "game-server.cc",
         "instances.spawn.cc",
         "myphotos.cc",
-        "oncilla.mythic-beasts.com",
         "scrapping.cc",
         "twmail.cc"
     ],
@@ -1262,6 +1261,7 @@
         "ocp.customer-oci.com",
         "ocs.customer-oci.com",
         "on-aptible.com",
+        "oncilla.mythic-beasts.com",
         "onfabrica.com",
         "onrender.com",
         "onthewifi.com",
@@ -1934,7 +1934,8 @@
         "edu.gy",
         "gov.gy",
         "net.gy",
-        "org.gy"
+        "org.gy",
+        "org.hk"
     ],
     "health": [
         "hra.health"

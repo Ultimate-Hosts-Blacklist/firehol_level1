@@ -2814,3 +2814,5 @@ Subject                                                                         
 103.178.240.0/20                                                                                     ACTIVE      SPECIAL    Unknown           Unknown                        Unknown    AVAILABILITY 
 141.98.10.0/24                                                                                       ACTIVE      SPECIAL    Unknown           Unknown                        Unknown    AVAILABILITY 
 194.26.29.0/24                                                                                       ACTIVE      SPECIAL    Unknown           Unknown                        Unknown    AVAILABILITY 
+5.79.79.211                                                                                          ACTIVE      HTTP CODE  Unknown           Unknown                        302        AVAILABILITY 
+213.176.50.208                                                                                       ACTIVE      HTTP CODE  Unknown           Unknown                        301        AVAILABILITY 

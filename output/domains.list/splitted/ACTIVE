@@ -2446,3 +2446,5 @@ Subject                                                                         
 94.131.228.0/22                                                                                      ACTIVE      SPECIAL    Unknown           Unknown                        Unknown    AVAILABILITY 
 96.45.144.0/20                                                                                       ACTIVE      SPECIAL    Unknown           Unknown                        Unknown    AVAILABILITY 
 166.117.0.0                                                                                          ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+198.13.0.0                                                                                           ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+198.14.0.0                                                                                           ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 

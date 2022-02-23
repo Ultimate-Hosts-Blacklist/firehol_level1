@@ -434,6 +434,7 @@
         "com.bn",
         "edu.bn",
         "gov.bn",
+        "net.bn",
         "org.bn"
     ],
     "bo": [
@@ -461,7 +462,6 @@
         "movimiento.bo",
         "musica.bo",
         "natural.bo",
-        "net.bn",
         "net.bo",
         "nombre.bo",
         "noticias.bo",
@@ -1764,6 +1764,7 @@
         "fi.cloudplatform.fi",
         "häkkinen.fi",
         "iki.fi",
+        "kapsi.fi",
         "myspreadshop.fi",
         "paas.datacenter.fi",
         "xn--hkkinen-5wa.fi"

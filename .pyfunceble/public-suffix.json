@@ -871,6 +871,7 @@
         "com.cn",
         "compute.amazonaws.com.cn",
         "cq.cn",
+        "direct.quickconnect.cn",
         "edu.cn",
         "elb.amazonaws.com.cn",
         "fj.cn",
@@ -1546,6 +1547,7 @@
         "dyndns1.de",
         "dynvpn.de",
         "firewall-gateway.de",
+        "frusky.de",
         "fuettertdasnetz.de",
         "git-repos.de",
         "goip.de",
@@ -8700,7 +8702,6 @@
     ],
     "zone": [
         "cloud66.zone",
-        "frusky.de",
         "hs.zone",
         "lima.zone",
         "triton.zone"

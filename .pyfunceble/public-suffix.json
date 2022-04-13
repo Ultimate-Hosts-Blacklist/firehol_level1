@@ -375,7 +375,6 @@
         "k.bg",
         "l.bg",
         "m.bg",
-        "mil.cn",
         "n.bg",
         "o.bg",
         "p.bg",
@@ -5768,6 +5767,7 @@
         "nom.nc"
     ],
     "net": [
+        "1.azurestaticapps.net",
         "a.prod.fastly.net",
         "a.ssl.fastly.net",
         "adobeaemcloud.net",

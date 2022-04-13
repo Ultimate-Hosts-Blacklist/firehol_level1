@@ -2537,3 +2537,5 @@ Subject                                                                         
 2.57.121.0/24                                                                                        ACTIVE      SPECIAL    Unknown           Unknown                        Unknown    AVAILABILITY 
 45.134.144.0/24                                                                                      ACTIVE      SPECIAL    Unknown           Unknown                        Unknown    AVAILABILITY 
 45.137.23.0/24                                                                                       ACTIVE      SPECIAL    Unknown           Unknown                        Unknown    AVAILABILITY 
+104.171.23.69                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+104.171.23.70                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 

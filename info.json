@@ -1,17 +1,17 @@
 {
-    "currently_under_test": false,
+    "currently_under_test": true,
     "days_until_next_test": 2,
     "end_datetime": "2022-04-20T06:27:02.821149",
     "end_epoch": 1650436022.821149,
     "name": "firehol_level1",
-    "previous_end_datetime": "2022-04-19T20:40:57.606295",
-    "previous_end_epoch": 1650400857.606295,
-    "previous_start_datetime": "2022-04-19T09:40:48.742316",
-    "previous_start_epoch": 1650361248.742316,
+    "previous_end_datetime": "2022-04-20T06:27:02.821149",
+    "previous_end_epoch": 1650436022.821149,
+    "previous_start_datetime": "2022-04-20T06:19:11.986901",
+    "previous_start_epoch": 1650435551.986901,
     "pyfunceble": {
         "config": {}
     },
     "raw_link": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level1.netset",
-    "start_datetime": "2022-04-20T06:19:11.986901",
-    "start_epoch": 1650435551.986901
+    "start_datetime": "2022-04-21T06:21:13.674903",
+    "start_epoch": 1650522073.674903
 }

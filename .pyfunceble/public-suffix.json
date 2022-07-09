@@ -2517,6 +2517,7 @@
         "mc.it",
         "me.it",
         "medio-campidano.it",
+        "mediocampidano.it",
         "messina.it",
         "mi.it",
         "milan.it",
@@ -3631,7 +3632,6 @@
         "matsuura.nagasaki.jp",
         "matsuyama.ehime.jp",
         "matsuzaki.shizuoka.jp",
-        "mediocampidano.it",
         "meguro.tokyo.jp",
         "meiwa.gunma.jp",
         "meiwa.mie.jp",
@@ -7721,7 +7721,8 @@
         "net.sa",
         "org.sa",
         "pub.sa",
-        "sch.sa"
+        "sch.sa",
+        "xn--vegrshei-c0a.no"
     ],
     "sale": [
         "for.sale"

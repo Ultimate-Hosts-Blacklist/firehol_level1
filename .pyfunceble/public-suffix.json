@@ -1791,6 +1791,9 @@
     "faith": [
         "ybo.faith"
     ],
+    "farm": [
+        "storj.farm"
+    ],
     "fashion": [
         "of.fashion"
     ],
@@ -6967,8 +6970,7 @@
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
-        "shacknet.nu",
-        "storj.farm"
+        "shacknet.nu"
     ],
     "nz": [
         "ac.nz",

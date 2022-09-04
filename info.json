@@ -1,8 +1,8 @@
 {
-    "currently_under_test": true,
+    "currently_under_test": false,
     "days_until_next_test": 2,
-    "end_datetime": "2022-09-03T13:39:30.503237",
-    "end_epoch": 1662212370.503237,
+    "end_datetime": "2022-09-04T08:50:19.170635",
+    "end_epoch": 1662281419.170635,
     "name": "firehol_level1",
     "previous_end_datetime": "2022-09-03T13:39:30.503237",
     "previous_end_epoch": 1662212370.503237,

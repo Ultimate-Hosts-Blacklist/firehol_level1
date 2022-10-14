@@ -2229,3 +2229,8 @@ Subject                                                                         
 95.161.128.0/23                                                                                      ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 
 95.214.24.0/24                                                                                       ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 
 103.76.128.0                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+185.149.194.0/23                                                                                     ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 
+192.241.213.0/24                                                                                     ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 
+192.241.216.0/23                                                                                     ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 
+192.241.220.0/24                                                                                     ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 
+45.143.200.0/24                                                                                      ACTIVE      SPECIAL    Unknown           Unknown    AVAILABILITY 
